@@ -100,6 +100,11 @@ o melhor e pior cenário predito.
 - Ao final, obteve-se um desempenho satisfatório, com Erro Médio Percentual Absoluto (MAPE) de 11,84% para mais ou para menos.
 - Esse erro pode ser traduzido em valores monetários por meio do Erro Médio Absoluto (MAE), que apresentou resultado de R$ 783,18 para mais ou para menos.
 - Para facilitar o acesso ao modelo de predição de receitas em cada loja, foi desenvolvido um Bot no app Telegram, de maneira que a receita prevista
-para cada loja da Rede Rossmann pode ser acessada pelo celular.  
+para cada loja da Rede Rossmann pode ser acessada pelo celular.
 
- 
+# 6. Considerações finais
+- Ao desenvolver o presente projeto, foi possível aplicar ferramentas e técnicas diversas relacionados à Ciência de Dados, bem como traduzir de forma
+didática e direta os resultados obtidos.
+- Outros ciclos do CRISP-DM serão desenvolvidos com o objetivo de otimizar ainda mais a performance do modelo de predição. 
+- O Modelo de Predição de Vendas da Rede Rossmann é replicável para qualquer modelo de negócio que necessite prever receitas de vendas.
+- O desenvolvimento do projeto Rossmann se apresenta como importante comprovação de minha experiência enquanto cientista de dados em constante evolução.  
