@@ -95,7 +95,7 @@ o melhor e pior cenário predito.
   
 ![Receita_geral](https://github.com/gtrmiranda/rossmann_project/assets/106852152/a6df5d88-19e6-4eee-b4ba-f390a4d5907b)
 
-# 5. Conclusões
+# 5. Resultados
 - Com base no primeiro ciclo do CRISP-DM, o modelo final apresentou melhor desempenho utilizando o algoritmo de Machine Learning XGBoost Regressor.
 - Ao final, obteve-se um desempenho satisfatório, com Erro Médio Percentual Absoluto (MAPE) de 11,84% para mais ou para menos.
 - Esse erro pode ser traduzido em valores monetários por meio do Erro Médio Absoluto (MAE), que apresentou resultado de R$ 783,18 para mais ou para menos.
